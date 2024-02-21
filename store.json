@@ -1,0 +1,74 @@
+{
+    "Walkie":{
+        "fullname":"Walkie-talkie",
+        "price":12
+    },
+    "Flashlight":{
+        "fullname":"Flashlight",
+        "price":15
+    },
+    "Shovel":{
+        "fullname":"Shovel",
+        "price":30
+    },
+    "Lockpicker":{
+        "fullname":"Lockpicker",
+        "price":20
+    },
+    "ProFlash":{
+        "fullname":"Pro-flashlight",
+        "price":25
+    },
+    "Boombox":{
+        "fullname":"Boombox",
+        "price":60
+    },
+    "Inhalant":{
+        "fullname":"TZP-Inhalant",
+        "price":120
+    },
+    "Zapgun":{
+        "fullname":"Zap gun",
+        "price":400
+    },
+    "Jetpack":{
+        "fullname":"Jetpack",
+        "price":700
+    },
+    "Extension":{
+        "fullname":"Extension ladder",
+        "price":60
+    },
+    "Radar":{
+        "fullname":"Radar-booster",
+        "price":50
+    },
+    "LHorn":{
+        "fullname":"Loud horn",
+        "price":100
+    },
+    "STranslator":{
+        "fullname":"Signal Translator",
+        "price":255
+    },
+    "Teleporter":{
+        "fullname":"Teleporter",
+        "price":375
+    },
+    "Inverse Teleporter":{
+        "fullname":"Inverse Teleporter",
+        "price":425
+    },
+    "GSuit":{
+        "fullname":"Green suit",
+        "price":60
+    },
+    "HSuit":{
+        "fullname":"Hazard suit",
+        "price":90
+    },
+    "PSuit":{
+        "fullname":"Pajama suit",
+        "price":900
+    }
+}

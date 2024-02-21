@@ -1,0 +1,252 @@
+{
+    "Airhorn":{
+        "fullname":"Airhorn",
+        "minval":52,
+        "maxval":72
+    },
+    "Apparatus":{
+        "fullname":"Apparatus",
+        "minval":80,
+        "maxval":80
+    },
+    "BeeHive":{
+        "fullname":"Bee Hive",
+        "minval":40,
+        "maxval":150
+    },
+    "BigBolt":{
+        "fullname":"Big bolt",
+        "minval":20,
+        "maxval":32
+    },
+    "Bottles":{
+        "fullname":"Bottles",
+        "minval":44,
+        "maxval":56
+    },
+    "BBell":{
+        "fullname":"Brass bell",
+        "minval":48,
+        "maxval":80
+    },
+    "Candy":{
+        "fullname":"Candy",
+        "minval":6,
+        "maxval":36
+    },
+    "CashRegister":{
+        "fullname":"Cash register",
+        "minval":80,
+        "maxval":160
+    },
+    "ChemicalJug":{
+        "fullname":"Chemical jug",
+        "minval":32,
+        "maxval":84
+    },
+    "ClownHorn":{
+        "fullname":"Clown horn",
+        "minval":52,
+        "maxval":72
+    },
+    "Mug":{
+        "fullname":"Coffee mug",
+        "minval":24,
+        "maxval":68
+    },
+    "Comedy":{
+        "fullname":"Comedy",
+        "minval":28,
+        "maxval":52
+    },
+    "Pan":{
+        "fullname":"Cookie mold pan",
+        "minval":12,
+        "maxval":40
+    },
+    "DIY":{
+        "fullname":"DIY-Flashbang",
+        "minval":10,
+        "maxval":28
+    },
+    "Gun":{
+        "fullname":"Double-barrel",
+        "minval":30,
+        "maxval":90
+    },
+    "DustPan":{
+        "fullname":"Dust pan",
+        "minval":12,
+        "maxval":32
+    },
+    "Beater":{
+        "fullname":"Egg beater",
+        "minval":12,
+        "maxval":44
+    },
+    "Lamp":{
+        "fullname":"Fancy lamp",
+        "minval":60,
+        "maxval":128
+    },
+    "Flask":{
+        "fullname":"Flask",
+        "minval":16,
+        "maxval":44
+    },
+    "Gift":{
+        "fullname":"Gift Box",
+        "minval":12,
+        "maxval":28
+    },
+    "Gold":{
+        "fullname":"Gold bar",
+        "minval":102,
+        "maxval":210
+    },
+    "GCup":{
+        "fullname":"Golden cup",
+        "minval":40,
+        "maxval":80
+    },
+    "Brush":{
+        "fullname":"Hair brush",
+        "minval":8,
+        "maxval":36
+    },
+    "Hairdryer":{
+        "fullname":"Hairdryer",
+        "minval":60,
+        "maxval":100
+    },
+    "Pickles":{
+        "fullname":"Jar of pickles",
+        "minval":32,
+        "maxval":60
+    },
+    "Axle":{
+        "fullname":"Large axle",
+        "minval":36,
+        "maxval":56
+    },
+    "Laser":{
+        "fullname":"Laser pointer",
+        "minval":32,
+        "maxval":100
+    },
+    "MagicBall":{
+        "fullname":"Magic 7 ball",
+        "minval":36,
+        "maxval":72
+    },
+    "MGlass":{
+        "fullname":"Magnifying glass",
+        "minval":44,
+        "maxval":60
+    },
+    "Phone":{
+        "fullname":"Old phone",
+        "minval":48,
+        "maxval":64
+    },
+    "Painting":{
+        "fullname":"Painting",
+        "minval":60,
+        "maxval":124
+    },
+    "Perfume":{
+        "fullname":"Perfume bottle",
+        "minval":48,
+        "maxval":104
+    },
+    "Pill":{
+        "fullname":"Pill bottle",
+        "minval":16,
+        "maxval":40
+    },
+    "PlasticFish":{
+        "fullname":"Plastic fish",
+        "minval":28,
+        "maxval":40
+    },
+    "RSoda":{
+        "fullname":"Red soda",
+        "minval":18,
+        "maxval":90
+    },
+    "Remote":{
+        "fullname":"Remote",
+        "minval":20,
+        "maxval":48
+    },
+    "Ring":{
+        "fullname":"Ring",
+        "minval":52,
+        "maxval":80
+    },
+    "Robot":{
+        "fullname":"Robot toy",
+        "minval":56,
+        "maxval":88
+    },
+    "Duck":{
+        "fullname":"Rubber Ducky",
+        "minval":2,
+        "maxval":100
+    },
+    "SWheel":{
+        "fullname":"Steering wheel",
+        "minval":16,
+        "maxval":32
+    },
+    "StopSign":{
+        "fullname":"Stop sign",
+        "minval":20,
+        "maxval":52
+    },
+    "Tattered":{
+        "fullname":"Tattered metal sheet",
+        "minval":10,
+        "maxval":22
+    },
+    "Kettle":{
+        "fullname":"Tea kettle",
+        "minval":32,
+        "maxval":56
+    },
+    "Teeth":{
+        "fullname":"Teeth",
+        "minval":60,
+        "maxval":84
+    },
+    "Toothpaste":{
+        "fullname":"Toothpaste",
+        "minval":14,
+        "maxval":48
+    },
+    "ToyCube":{
+        "fullname":"Toy cube",
+        "minval":24,
+        "maxval":44
+    },
+    "Tragedy":{
+        "fullname":"Tragedy",
+        "minval":28,
+        "maxval":52
+    },
+    "Engine":{
+        "fullname":"V-type engine",
+        "minval":20,
+        "maxval":56
+    },
+    "Whoopie":{
+        "fullname":"Whoopie-Cushion",
+        "minval":6,
+        "maxval":20
+    },
+    "Yield":{
+        "fullname":"Yield sign",
+        "minval":18,
+        "maxval":36
+    }
+}
